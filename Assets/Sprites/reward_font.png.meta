@@ -1,0 +1,2352 @@
+fileFormatVersion: 2
+guid: c52990072e834c6488c5b653c523af9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2153404960145700561
+    second: reward_font_0
+  - first:
+      213: -8101164111702571956
+    second: reward_font_1
+  - first:
+      213: -8939879014917963108
+    second: reward_font_2
+  - first:
+      213: 2647155527391370565
+    second: reward_font_3
+  - first:
+      213: 8880507120496228008
+    second: reward_font_4
+  - first:
+      213: 990806783330902308
+    second: reward_font_5
+  - first:
+      213: -2355328302692871447
+    second: reward_font_6
+  - first:
+      213: -4934786270679342186
+    second: reward_font_7
+  - first:
+      213: -8043563435832236035
+    second: reward_font_8
+  - first:
+      213: -7728416134588550800
+    second: reward_font_9
+  - first:
+      213: -2910400443522937737
+    second: reward_font_10
+  - first:
+      213: -4102115806777519911
+    second: reward_font_11
+  - first:
+      213: 3374792182774411716
+    second: reward_font_12
+  - first:
+      213: 8261434402729875756
+    second: reward_font_13
+  - first:
+      213: 5386205817438763723
+    second: reward_font_14
+  - first:
+      213: -5690586482592743817
+    second: reward_font_15
+  - first:
+      213: -4775114468742723200
+    second: reward_font_16
+  - first:
+      213: -7532837227633563302
+    second: reward_font_17
+  - first:
+      213: -2584621328826205527
+    second: reward_font_18
+  - first:
+      213: -1442107710887016560
+    second: reward_font_19
+  - first:
+      213: -1490603385014722853
+    second: reward_font_20
+  - first:
+      213: -5666078912698495738
+    second: reward_font_21
+  - first:
+      213: -932662812997865890
+    second: reward_font_22
+  - first:
+      213: -6695477117518744976
+    second: reward_font_23
+  - first:
+      213: -3422370707355320119
+    second: reward_font_24
+  - first:
+      213: 2842642805771881740
+    second: reward_font_25
+  - first:
+      213: 8069452242880546155
+    second: reward_font_26
+  - first:
+      213: -6935866627709769123
+    second: reward_font_27
+  - first:
+      213: 6599141732446602324
+    second: reward_font_28
+  - first:
+      213: 4749545233486033941
+    second: reward_font_29
+  - first:
+      213: -2805347668685917529
+    second: reward_font_30
+  - first:
+      213: -273164670591864740
+    second: reward_font_31
+  - first:
+      213: -6858135687205129839
+    second: reward_font_32
+  - first:
+      213: -5982999299056015862
+    second: reward_font_33
+  - first:
+      213: 4876778214382408181
+    second: reward_font_34
+  - first:
+      213: -4796619504752271409
+    second: reward_font_35
+  - first:
+      213: -783442922722178448
+    second: reward_font_36
+  - first:
+      213: -7303614272269800332
+    second: reward_font_37
+  - first:
+      213: -7183562152524676785
+    second: reward_font_38
+  - first:
+      213: -6889867711324296664
+    second: reward_font_39
+  - first:
+      213: 2509474060675659628
+    second: reward_font_40
+  - first:
+      213: 6599199963797019927
+    second: reward_font_41
+  - first:
+      213: 7785781889859798313
+    second: reward_font_42
+  - first:
+      213: 7199199171625487335
+    second: reward_font_43
+  - first:
+      213: 5879139952048107972
+    second: reward_font_44
+  - first:
+      213: -5021522227130052294
+    second: reward_font_45
+  - first:
+      213: 7625301301617301548
+    second: reward_font_46
+  - first:
+      213: 5796250034337101912
+    second: reward_font_47
+  - first:
+      213: -5425656154682906054
+    second: reward_font_48
+  - first:
+      213: 7625293282605909568
+    second: reward_font_49
+  - first:
+      213: -1495307065331589341
+    second: reward_font_50
+  - first:
+      213: 1879958996288075342
+    second: reward_font_51
+  - first:
+      213: -667519885713190825
+    second: reward_font_52
+  - first:
+      213: 4632855171486337668
+    second: reward_font_53
+  - first:
+      213: -1450734663352421702
+    second: reward_font_54
+  - first:
+      213: 4322910200671335293
+    second: reward_font_55
+  - first:
+      213: 5153759760981750123
+    second: reward_font_56
+  - first:
+      213: -319013421778746813
+    second: reward_font_57
+  - first:
+      213: 5977216489807839935
+    second: reward_font_58
+  - first:
+      213: -13785601890483515
+    second: reward_font_59
+  - first:
+      213: 4865622256310541115
+    second: reward_font_60
+  - first:
+      213: -5595653478124216801
+    second: reward_font_61
+  - first:
+      213: -5697967044142984644
+    second: reward_font_62
+  - first:
+      213: 400524462789680362
+    second: reward_font_63
+  - first:
+      213: 5985618986451337738
+    second: reward_font_64
+  - first:
+      213: -3415172419123021992
+    second: reward_font_65
+  - first:
+      213: 2369245236395194924
+    second: reward_font_66
+  - first:
+      213: 1611109308889024242
+    second: reward_font_67
+  - first:
+      213: 8731308535815783780
+    second: reward_font_68
+  - first:
+      213: -5371139008275835830
+    second: reward_font_69
+  - first:
+      213: -8267733938148183184
+    second: reward_font_70
+  - first:
+      213: 317249556103449165
+    second: reward_font_71
+  - first:
+      213: -1484062359579002435
+    second: reward_font_72
+  - first:
+      213: -8932309768201978321
+    second: reward_font_73
+  - first:
+      213: -5279284650752139253
+    second: reward_font_74
+  - first:
+      213: 3930539623538304281
+    second: reward_font_75
+  - first:
+      213: 163468676702883411
+    second: reward_font_76
+  - first:
+      213: 7082069708457670679
+    second: reward_font_77
+  - first:
+      213: -686190110594255245
+    second: reward_font_78
+  - first:
+      213: 6008898086064823502
+    second: reward_font_79
+  - first:
+      213: -5960253456073913811
+    second: reward_font_80
+  - first:
+      213: -8741008468772303746
+    second: reward_font_81
+  - first:
+      213: 1634861055908145319
+    second: reward_font_82
+  - first:
+      213: 8675606109104489969
+    second: reward_font_83
+  - first:
+      213: 4791949075035870522
+    second: reward_font_84
+  - first:
+      213: -1437830834073766149
+    second: reward_font_85
+  - first:
+      213: 8041790328027969079
+    second: reward_font_86
+  - first:
+      213: 1897037379468532062
+    second: reward_font_87
+  - first:
+      213: -8202345805989746913
+    second: reward_font_88
+  - first:
+      213: -8200375207148342529
+    second: reward_font_89
+  - first:
+      213: -5941411549694464165
+    second: reward_font_90
+  - first:
+      213: -3624117184395255936
+    second: reward_font_91
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reward_font_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 454
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d67c0be66e62ed10800000000000000
+      internalID: 2153404960145700561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 452
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4443d68922e29f80800000000000000
+      internalID: -8101164111702571956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 452
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9288d4c66b2fe380800000000000000
+      internalID: -8939879014917963108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 455
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ddf5b4de59cb420800000000000000
+      internalID: 2647155527391370565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 452
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a63186dc26ed3b70800000000000000
+      internalID: 8880507120496228008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 454
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4216c79158d00cd00800000000000000
+      internalID: 990806783330902308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 454
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e251944361305fd0800000000000000
+      internalID: -2355328302692871447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 455
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693eead480e148bb0800000000000000
+      internalID: -4934786270679342186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 456
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df726e6fba58f5090800000000000000
+      internalID: -8043563435832236035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_9
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 454
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071b375f8762fb490800000000000000
+      internalID: -7728416134588550800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 454
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c0da1773e2c97d0800000000000000
+      internalID: -2910400443522937737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_11
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 456
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0d28d586b5217c0800000000000000
+      internalID: -4102115806777519911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_12
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 452
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1b80d1c9ba5de20800000000000000
+      internalID: 3374792182774411716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 455
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29d7ed71d286a270800000000000000
+      internalID: 8261434402729875756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_14
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 452
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca749357a5afba40800000000000000
+      internalID: 5386205817438763723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_15
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 455
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e7b6d7eb9f601b0800000000000000
+      internalID: -5690586482592743817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 383
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08903c8b0b26bbdb0800000000000000
+      internalID: -4775114468742723200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 390
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a592010c37cf57790800000000000000
+      internalID: -7532837227633563302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 388
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa7a686894912cd0800000000000000
+      internalID: -2584621328826205527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 388
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0974ab47daa9cfbe0800000000000000
+      internalID: -1442107710887016560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 388
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bded33f6e10505be0800000000000000
+      internalID: -1490603385014722853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 391
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d4643cf3b0e51b0800000000000000
+      internalID: -5666078912698495738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_22
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 388
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eab00fc148e03f0800000000000000
+      internalID: -932662812997865890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_23
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 390
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072f9882903e413a0800000000000000
+      internalID: -6695477117518744976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_24
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 391
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0426269fb4180d0800000000000000
+      internalID: -3422370707355320119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_25
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 392
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d4a552298137720800000000000000
+      internalID: 2842642805771881740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_26
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 391
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65cfd4af047cff60800000000000000
+      internalID: 8069452242880546155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_27
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 388
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a6fd5cc0adebf90800000000000000
+      internalID: -6935866627709769123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_28
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 390
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4548fe0217cd49b50800000000000000
+      internalID: 6599141732446602324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_29
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 391
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514b596c936c9e140800000000000000
+      internalID: 4749545233486033941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_30
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 390
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a27180a8276119d0800000000000000
+      internalID: -2805347668685917529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_31
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 390
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c507f2ced26853cf0800000000000000
+      internalID: -273164670591864740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 326
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19175beade103d0a0800000000000000
+      internalID: -6858135687205129839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_33
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 327
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06ea5836dd18fca0800000000000000
+      internalID: -5982999299056015862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_34
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 327
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f190ac92fbcda340800000000000000
+      internalID: 4876778214382408181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 326
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfd78859fbfe6db0800000000000000
+      internalID: -4796619504752271409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_36
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 326
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ac95900d6a025f0800000000000000
+      internalID: -783442922722178448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 328
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ca2ecf38954aa90800000000000000
+      internalID: -7303614272269800332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 326
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4183dc484cde4c90800000000000000
+      internalID: -7183562152524676785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_39
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 327
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ae41512d54260a0800000000000000
+      internalID: -6889867711324296664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_40
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 326
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6731a7cc5173d220800000000000000
+      internalID: 2509474060675659628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_41
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 327
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d54eb2761159b50800000000000000
+      internalID: 6599199963797019927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_42
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 321
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92543c3c067ac0c60800000000000000
+      internalID: 7785781889859798313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_43
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 326
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb060ce081b8e360800000000000000
+      internalID: 7199199171625487335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_44
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 326
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c172aa23a6e69150800000000000000
+      internalID: 5879139952048107972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_45
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 324
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a315f2cb328ff4ab0800000000000000
+      internalID: -5021522227130052294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_46
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 324
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28193c122382d960800000000000000
+      internalID: 7625301301617301548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_47
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 327
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858320642ba607050800000000000000
+      internalID: 5796250034337101912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 260
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3aa6b2497234b4b0800000000000000
+      internalID: -5425656154682906054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_49
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 263
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046c5e907db72d960800000000000000
+      internalID: 7625293282605909568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_50
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 263
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f57c4852a9f3be0800000000000000
+      internalID: -1495307065331589341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_51
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 265
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46fc062fb4f61a10800000000000000
+      internalID: 1879958996288075342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 263
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7505e8b533e7cb6f0800000000000000
+      internalID: -667519885713190825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 264
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a46488b353b4040800000000000000
+      internalID: 4632855171486337668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_54
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 264
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2788f8284fddbe0800000000000000
+      internalID: -1450734663352421702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_55
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 262
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d737dea7cef0efb30800000000000000
+      internalID: 4322910200671335293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_56
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 264
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61f4036235d58740800000000000000
+      internalID: 5153759760981750123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_57
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 262
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342cb4cabf2a29bf0800000000000000
+      internalID: -319013421778746813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_58
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 263
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb28a949ab653f250800000000000000
+      internalID: 5977216489807839935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_59
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 264
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c28d4071160fcff0800000000000000
+      internalID: -13785601890483515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_60
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 263
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bdf96b9a9268340800000000000000
+      internalID: 4865622256310541115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_61
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 263
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e1a360fce3852b0800000000000000
+      internalID: -5595653478124216801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_62
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 263
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3299f79921cce0b0800000000000000
+      internalID: -5697967044142984644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_63
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 260
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecde6870e2fe8500800000000000000
+      internalID: 400524462789680362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_64
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 201
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02044841c0311350800000000000000
+      internalID: 5985618986451337738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_65
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 195
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857f57777ceda90d0800000000000000
+      internalID: -3415172419123021992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a3f1d5dff31e020800000000000000
+      internalID: 2369245236395194924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_67
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 203
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6c7a2616fcb5610800000000000000
+      internalID: 1611109308889024242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_68
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 204
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465c2a55ad6db2970800000000000000
+      internalID: 8731308535815783780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_69
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 208
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44997c8781e575b0800000000000000
+      internalID: -5371139008275835830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_70
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 199
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0737c3f99cb134d80800000000000000
+      internalID: -8267733938148183184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_71
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 198
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a42b85ac8176400800000000000000
+      internalID: 317249556103449165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_72
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 196
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9f3c8952d876be0800000000000000
+      internalID: -1484062359579002435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_73
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 198
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eb19a579f0a0480800000000000000
+      internalID: -8932309768201978321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_74
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 195
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b002fbbb4963cb6b0800000000000000
+      internalID: -5279284650752139253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_75
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 195
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915299476f41c8630800000000000000
+      internalID: 3930539623538304281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_76
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 195
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e47c635e1c44200800000000000000
+      internalID: 163468676702883411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_77
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 191
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7187c2f90e0984260800000000000000
+      internalID: 7082069708457670679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_78
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 191
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376b4a1eab92a76f0800000000000000
+      internalID: -686190110594255245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_79
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 192
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc1b6709f4e36350800000000000000
+      internalID: 6008898086064823502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a8b6b7f0de84da0800000000000000
+      internalID: -5960253456073913811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_81
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 132
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c45280c13b1b680800000000000000
+      internalID: -8741008468772303746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 132
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8668ee77130b610800000000000000
+      internalID: 1634861055908145319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_83
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 136
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5c1687ac1f56870800000000000000
+      internalID: 8675606109104489969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_84
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 136
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35564f7b4c608240800000000000000
+      internalID: 4791949075035870522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_85
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 140
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6fdef697ccb0ce0800000000000000
+      internalID: -1437830834073766149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_86
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 147
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736774432bd2a9f60800000000000000
+      internalID: 8041790328027969079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_87
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 134
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e591cd81271a35a10800000000000000
+      internalID: 1897037379468532062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_88
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 136
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17e01582f96b2e80800000000000000
+      internalID: -8202345805989746913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_89
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 148
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2b001523a623e80800000000000000
+      internalID: -8200375207148342529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_90
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 149
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fee0cacaddb8da0800000000000000
+      internalID: -5941411549694464165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reward_font_91
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 128
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f5bb74f9c84bdc0800000000000000
+      internalID: -3624117184395255936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
